@@ -1,3 +1,11 @@
+use crate::server::Server;
+
+mod server;
+mod router;
+mod handler;
+
 fn main() {
-    println!("Hello, world!");
+    let server = Server::new("localhost:3000");
+
+    server.run();
 }

@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/reb_service/httpserver/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reb_service/tcpclient/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reb_service/tcpserver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reb_service/webservice/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/reb_service/target" />
     </content>
     <orderEntry type="inheritedJdk" />
